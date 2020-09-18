@@ -10,4 +10,3 @@ gem 'stamp'
 gem 'rake'
 
 gemspec
-# gem "rails"
